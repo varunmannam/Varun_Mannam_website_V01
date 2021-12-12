@@ -13,9 +13,9 @@ main:
   - name: Publications
     url: '#Publications'
     weight: 30
-  - name: Online Resources
-    url: '#Online Resources'
-    weight: 40
+#   - name: Online Resources
+#     url: '#Online Resources'
+#     weight: 40
   - name: Demos
     url: '#Demos'
     weight: 50
