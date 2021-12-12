@@ -22,10 +22,12 @@ twitter: ''
 
 email: vmannam@nd.edu
 address:
-  Varun Mannam 
-  275, Electrical Engineering
-  University of Notre Dame
-  Notre Dame, IN, 46556, USA
+  street: 275, Electrical Engineering, University of Notre Dame
+  city: Notre Dame
+  state: Indiana
+  postcode: '46556'
+  country: United States of America (USA)
+  country_code: US
 
 
 # phone: 888 888 88 88
