@@ -28,7 +28,10 @@ address:
   postcode: '46556'
   country: United States of America (USA)
   country_code: US
-
+coordinates:
+  latitude: '41.6971'
+  longitude: '-86.2382'
+#41.69715582840506, -86.23823854218146
 
 # phone: 888 888 88 88
 # address:
